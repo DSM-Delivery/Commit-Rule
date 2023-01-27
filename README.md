@@ -1,5 +1,4 @@
 # Commit-Rule
-| CommitType | Description |
 
 | CommitType | Description |
 | --- | --- |
@@ -13,3 +12,5 @@
 | ☀️ :: | 테스트 코드 추가에 대한 커밋 |
 | 🐝 :: | 테스트 코드 수정에 대한 커밋 |
 | 🐭 :: | 그 외 자잘한 커밋 |
+* * *
+<span style="color:red"> 글씨색 변경 </span>
