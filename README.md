@@ -1,5 +1,7 @@
 # Commit-Rule
 
+# 커밋큐칙입니다.
+
 | CommitType | Description |
 | --- | --- |
 | 🗂 :: | 파일 생성 및 구조 변경에 대한 커밋 |
@@ -12,5 +14,10 @@
 | ☀️ :: | 테스트 코드 추가에 대한 커밋 |
 | 🐝 :: | 테스트 코드 수정에 대한 커밋 |
 | 🐭 :: | 그 외 자잘한 커밋 |
-* * *
-<span style="color:red"> 글씨색 변경 </span>
+
+
+## 예시
+    CommitType :: (#issue number) Subject
+    
+>♻️:: 불필요한 코드 제거
+    
