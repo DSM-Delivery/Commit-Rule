@@ -1,6 +1,6 @@
 # Commit-Rule
 
-# 커밋큐칙입니다.
+# 커밋큐칙
 
 | CommitType | Description |
 | --- | --- |
